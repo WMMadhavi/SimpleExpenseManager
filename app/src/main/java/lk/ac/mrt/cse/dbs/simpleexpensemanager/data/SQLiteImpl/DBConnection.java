@@ -4,8 +4,6 @@ import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 
-import lk.ac.mrt.cse.dbs.simpleexpensemanager.data.model.ConstantVariable;
-
 /**
  * Created by Madhavi Ruwandika on 12/5/2015.
  */
